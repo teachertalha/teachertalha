@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teachertalha&show_icons=true&locale=en&layout=compact" alt="teachertalha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teachertalha&show_icons=true&locale=en" alt="teachertalha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teachertalha" alt="teachertalha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teachertalha&" alt="teachertalha" /></p>
