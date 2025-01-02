@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, JAVA, NextJs**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/teachertalha/](https://www.linkedin.com/in/teachertalha/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/teachertalha/](https://www.linkedin.com/in/talha7k/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
